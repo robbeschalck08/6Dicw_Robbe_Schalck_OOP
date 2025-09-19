@@ -12,6 +12,6 @@ Module Program
 
         Dim objLeeuw As New Leeuw()
         objLeeuw.intSnelheid = 24
-        Console.WriteLine("Hello World!" + objLeeuw.intSnelheid)
+        Console.WriteLine("Hello World!" & objLeeuw.intSnelheid)
     End Sub
 End Module
