@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robbe.schalck\\source\\repos\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5.vbproj": {}
+    "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\h5\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\robbe.schalck\\source\\repos\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5.vbproj": {
+    "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\h5\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robbe.schalck\\source\\repos\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5.vbproj",
+        "projectUniqueName": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\h5\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5.vbproj",
         "projectName": "oef 1 hoofdstuk 5",
-        "projectPath": "C:\\Users\\robbe.schalck\\source\\repos\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5.vbproj",
+        "projectPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\h5\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5.vbproj",
         "packagesPath": "C:\\Users\\robbe.schalck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robbe.schalck\\source\\repos\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5\\obj\\",
+        "outputPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\h5\\oef 1 hoofdstuk 5\\oef 1 hoofdstuk 5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

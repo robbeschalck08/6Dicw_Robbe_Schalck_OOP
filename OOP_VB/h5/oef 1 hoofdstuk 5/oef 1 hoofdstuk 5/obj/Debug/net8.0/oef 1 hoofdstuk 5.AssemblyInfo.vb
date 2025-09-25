@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("oef 1 hoofdstuk 5"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86579bbe35997b0e59287826de041c17d75723a8"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("oef 1 hoofdstuk 5"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("oef 1 hoofdstuk 5"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
