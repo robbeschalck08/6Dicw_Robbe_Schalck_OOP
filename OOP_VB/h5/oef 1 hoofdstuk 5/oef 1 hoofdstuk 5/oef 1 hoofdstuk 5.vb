@@ -1,7 +1,7 @@
 Imports System
 
 Module Program
-    Public Class auto
+    Class Auto
         Public dblBandenSpanning As Double
 
         Public Sub New()
@@ -29,7 +29,7 @@ Module Program
     End Class
 
     Sub Main(args As String())
-        Dim objAuto As New auto()
+        Dim objAuto As New Auto()
         objAuto.GaOpVakantie()
         objAuto.geefStaatWagenWeer()
         objAuto.GaOpVakantie()
