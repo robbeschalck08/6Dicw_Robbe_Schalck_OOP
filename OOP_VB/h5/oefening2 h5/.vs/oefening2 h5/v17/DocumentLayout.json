@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\h5\\oefening2 h5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC397DB9-E729-4290-8C40-49F4D0164106}|oefening2 h5\\oefening2 h5.vbproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\oop_vb\\h5\\oefening2 h5\\oefening2 h5\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FC397DB9-E729-4290-8C40-49F4D0164106}|oefening2 h5\\oefening2 h5.vbproj|solutionrelative:oefening2 h5\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\h5\\oefening2 h5\\oefening2 h5\\Program.vb",
+              "RelativeDocumentMoniker": "oefening2 h5\\Program.vb",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\h5\\oefening2 h5\\oefening2 h5\\Program.vb",
+              "RelativeToolTip": "oefening2 h5\\Program.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-26T09:51:49.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
