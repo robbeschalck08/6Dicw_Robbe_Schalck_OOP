@@ -1,0 +1,14 @@
+C:\Users\robbe.schalck\Desktop\vraag 2\vraag 2\bin\Debug\net8.0\Schalck_Robbe_Dier.exe
+C:\Users\robbe.schalck\Desktop\vraag 2\vraag 2\bin\Debug\net8.0\Schalck_Robbe_Dier.deps.json
+C:\Users\robbe.schalck\Desktop\vraag 2\vraag 2\bin\Debug\net8.0\Schalck_Robbe_Dier.runtimeconfig.json
+C:\Users\robbe.schalck\Desktop\vraag 2\vraag 2\bin\Debug\net8.0\Schalck_Robbe_Dier.dll
+C:\Users\robbe.schalck\Desktop\vraag 2\vraag 2\bin\Debug\net8.0\Schalck_Robbe_Dier.pdb
+C:\Users\robbe.schalck\Desktop\vraag 2\vraag 2\obj\Debug\net8.0\Schalck_Robbe_Dier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe.schalck\Desktop\vraag 2\vraag 2\obj\Debug\net8.0\Schalck_Robbe_Dier.AssemblyInfoInputs.cache
+C:\Users\robbe.schalck\Desktop\vraag 2\vraag 2\obj\Debug\net8.0\Schalck_Robbe_Dier.AssemblyInfo.vb
+C:\Users\robbe.schalck\Desktop\vraag 2\vraag 2\obj\Debug\net8.0\Schalck_Robbe_Dier.vbproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\vraag 2\vraag 2\obj\Debug\net8.0\Schalck_Robbe_Dier.dll
+C:\Users\robbe.schalck\Desktop\vraag 2\vraag 2\obj\Debug\net8.0\refint\Schalck_Robbe_Dier.dll
+C:\Users\robbe.schalck\Desktop\vraag 2\vraag 2\obj\Debug\net8.0\Schalck_Robbe_Dier.pdb
+C:\Users\robbe.schalck\Desktop\vraag 2\vraag 2\obj\Debug\net8.0\Schalck_Robbe_Dier.genruntimeconfig.cache
+C:\Users\robbe.schalck\Desktop\vraag 2\vraag 2\obj\Debug\net8.0\ref\Schalck_Robbe_Dier.dll
