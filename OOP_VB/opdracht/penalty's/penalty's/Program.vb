@@ -62,14 +62,20 @@ Module Program
         Dim objMessi As New Trapper("rechts")
         Dim objCourtois As New Keeper("links")
 
-        Dim schot As String = objMessi.neemSchot()
-        Dim redding As String = objCourtois.verdedigSchot()
+        For aantalStrafSchoppen As Integer = 1 To 5
+            Dim schot As String = objMessi.neemSchot()
+            Dim redding As String = objCourtois.verdedigSchot()
 
-        'Console.WriteLine($"lukaku schiet: {schot}")
-        Console.WriteLine($"Courtois duikt: {redding}")
+            Console.WriteLine($"Strafschop {aantalStrafSchoppen}")
+            Console.WriteLine($"Messi schiet {schot}")
+            Console.WriteLine($"Strafschop {redding}")
 
-
-
-
+            If schot = redding Then
+                Console.WriteLine("keeper stopt de bal")
+            Else
+                Console.WriteLine("Goal")
+            End If
+            Console.WriteLine(" ")
+        Next
     End Sub
 End Module

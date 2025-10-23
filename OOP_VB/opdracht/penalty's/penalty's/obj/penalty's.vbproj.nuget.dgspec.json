@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\penalty's\\penalty's\\penalty's.vbproj": {}
+    "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\opdracht\\penalty's\\penalty's\\penalty's.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\penalty's\\penalty's\\penalty's.vbproj": {
+    "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\opdracht\\penalty's\\penalty's\\penalty's.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\penalty's\\penalty's\\penalty's.vbproj",
+        "projectUniqueName": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\opdracht\\penalty's\\penalty's\\penalty's.vbproj",
         "projectName": "penalty's",
-        "projectPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\penalty's\\penalty's\\penalty's.vbproj",
+        "projectPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\opdracht\\penalty's\\penalty's\\penalty's.vbproj",
         "packagesPath": "C:\\Users\\robbe.schalck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\penalty's\\penalty's\\obj\\",
+        "outputPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\opdracht\\penalty's\\penalty's\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
