@@ -1,0 +1,14 @@
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 3 - film\oefening 3 - film\bin\Debug\net8.0\oefening 3 - film.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 3 - film\oefening 3 - film\bin\Debug\net8.0\oefening 3 - film.deps.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 3 - film\oefening 3 - film\bin\Debug\net8.0\oefening 3 - film.runtimeconfig.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 3 - film\oefening 3 - film\bin\Debug\net8.0\oefening 3 - film.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 3 - film\oefening 3 - film\bin\Debug\net8.0\oefening 3 - film.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 3 - film\oefening 3 - film\obj\Debug\net8.0\oefening 3 - film.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 3 - film\oefening 3 - film\obj\Debug\net8.0\oefening 3 - film.AssemblyInfoInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 3 - film\oefening 3 - film\obj\Debug\net8.0\oefening 3 - film.AssemblyInfo.vb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 3 - film\oefening 3 - film\obj\Debug\net8.0\oefening 3 - film.vbproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 3 - film\oefening 3 - film\obj\Debug\net8.0\oefening 3 - film.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 3 - film\oefening 3 - film\obj\Debug\net8.0\refint\oefening 3 - film.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 3 - film\oefening 3 - film\obj\Debug\net8.0\oefening 3 - film.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 3 - film\oefening 3 - film\obj\Debug\net8.0\oefening 3 - film.genruntimeconfig.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 3 - film\oefening 3 - film\obj\Debug\net8.0\ref\oefening 3 - film.dll

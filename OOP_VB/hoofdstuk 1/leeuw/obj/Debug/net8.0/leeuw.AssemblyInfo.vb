@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("leeuw"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b09f91d3567a304a67a07e492dfd54c2c567a491"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20c112c63c80eb8cdd118956f14e4ed9d15773b5"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("leeuw"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("leeuw"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

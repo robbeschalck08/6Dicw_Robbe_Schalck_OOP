@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\vraag 1\\",
+  "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\OOP_Tests\\vraag 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{345B1ACF-956F-4DB0-A98D-01F6BF7A7C75}|vraag 1\\vraag 1.vbproj|c:\\users\\robbe.schalck\\desktop\\vraag 1\\vraag 1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{345B1ACF-956F-4DB0-A98D-01F6BF7A7C75}|vraag 1\\vraag 1.vbproj|solutionrelative:vraag 1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{345B1ACF-956F-4DB0-A98D-01F6BF7A7C75}|vraag 1\\Schalck_Robbe_Tiam.vbproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\oop_vb\\oop_tests\\vraag 1\\vraag 1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{345B1ACF-956F-4DB0-A98D-01F6BF7A7C75}|vraag 1\\Schalck_Robbe_Tiam.vbproj|solutionrelative:vraag 1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.vb",
-              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\vraag 1\\vraag 1\\Program.vb",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\OOP_Tests\\vraag 1\\vraag 1\\Program.vb",
               "RelativeDocumentMoniker": "vraag 1\\Program.vb",
-              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\vraag 1\\vraag 1\\Program.vb",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\OOP_Tests\\vraag 1\\vraag 1\\Program.vb",
               "RelativeToolTip": "vraag 1\\Program.vb",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-02T09:54:18.386Z",
               "EditorCaption": ""

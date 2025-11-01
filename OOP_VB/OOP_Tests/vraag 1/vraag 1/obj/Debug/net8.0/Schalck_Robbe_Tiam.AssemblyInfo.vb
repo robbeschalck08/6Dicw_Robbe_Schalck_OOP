@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Schalck_Robbe_Tiam"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20c112c63c80eb8cdd118956f14e4ed9d15773b5"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Schalck_Robbe_Tiam"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Schalck_Robbe_Tiam"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

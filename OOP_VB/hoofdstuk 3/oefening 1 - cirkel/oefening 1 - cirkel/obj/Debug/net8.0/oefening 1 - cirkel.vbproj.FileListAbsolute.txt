@@ -1,0 +1,14 @@
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - cirkel\oefening 1 - cirkel\bin\Debug\net8.0\oefening 1 - cirkel.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - cirkel\oefening 1 - cirkel\bin\Debug\net8.0\oefening 1 - cirkel.deps.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - cirkel\oefening 1 - cirkel\bin\Debug\net8.0\oefening 1 - cirkel.runtimeconfig.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - cirkel\oefening 1 - cirkel\bin\Debug\net8.0\oefening 1 - cirkel.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - cirkel\oefening 1 - cirkel\bin\Debug\net8.0\oefening 1 - cirkel.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - cirkel\oefening 1 - cirkel\obj\Debug\net8.0\oefening 1 - cirkel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - cirkel\oefening 1 - cirkel\obj\Debug\net8.0\oefening 1 - cirkel.AssemblyInfoInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - cirkel\oefening 1 - cirkel\obj\Debug\net8.0\oefening 1 - cirkel.AssemblyInfo.vb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - cirkel\oefening 1 - cirkel\obj\Debug\net8.0\oefening 1 - cirkel.vbproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - cirkel\oefening 1 - cirkel\obj\Debug\net8.0\oefening 1 - cirkel.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - cirkel\oefening 1 - cirkel\obj\Debug\net8.0\refint\oefening 1 - cirkel.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - cirkel\oefening 1 - cirkel\obj\Debug\net8.0\oefening 1 - cirkel.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - cirkel\oefening 1 - cirkel\obj\Debug\net8.0\oefening 1 - cirkel.genruntimeconfig.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - cirkel\oefening 1 - cirkel\obj\Debug\net8.0\ref\oefening 1 - cirkel.dll

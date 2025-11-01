@@ -1,0 +1,14 @@
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - draak\oefening 1 - draak\bin\Debug\net8.0\oefening 1 - draak.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - draak\oefening 1 - draak\bin\Debug\net8.0\oefening 1 - draak.deps.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - draak\oefening 1 - draak\bin\Debug\net8.0\oefening 1 - draak.runtimeconfig.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - draak\oefening 1 - draak\bin\Debug\net8.0\oefening 1 - draak.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - draak\oefening 1 - draak\bin\Debug\net8.0\oefening 1 - draak.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - draak\oefening 1 - draak\obj\Debug\net8.0\oefening 1 - draak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - draak\oefening 1 - draak\obj\Debug\net8.0\oefening 1 - draak.AssemblyInfoInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - draak\oefening 1 - draak\obj\Debug\net8.0\oefening 1 - draak.AssemblyInfo.vb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - draak\oefening 1 - draak\obj\Debug\net8.0\oefening 1 - draak.vbproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - draak\oefening 1 - draak\obj\Debug\net8.0\oefening 1 - draak.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - draak\oefening 1 - draak\obj\Debug\net8.0\refint\oefening 1 - draak.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - draak\oefening 1 - draak\obj\Debug\net8.0\oefening 1 - draak.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - draak\oefening 1 - draak\obj\Debug\net8.0\oefening 1 - draak.genruntimeconfig.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - draak\oefening 1 - draak\obj\Debug\net8.0\ref\oefening 1 - draak.dll
