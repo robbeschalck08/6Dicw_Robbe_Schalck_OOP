@@ -1,0 +1,14 @@
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - auto\oefening 1 - auto\bin\Debug\net8.0\oefening 1 - auto.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - auto\oefening 1 - auto\bin\Debug\net8.0\oefening 1 - auto.deps.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - auto\oefening 1 - auto\bin\Debug\net8.0\oefening 1 - auto.runtimeconfig.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - auto\oefening 1 - auto\bin\Debug\net8.0\oefening 1 - auto.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - auto\oefening 1 - auto\bin\Debug\net8.0\oefening 1 - auto.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - auto\oefening 1 - auto\obj\Debug\net8.0\oefening 1 - auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - auto\oefening 1 - auto\obj\Debug\net8.0\oefening 1 - auto.AssemblyInfoInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - auto\oefening 1 - auto\obj\Debug\net8.0\oefening 1 - auto.AssemblyInfo.vb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - auto\oefening 1 - auto\obj\Debug\net8.0\oefening 1 - auto.vbproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - auto\oefening 1 - auto\obj\Debug\net8.0\oefening 1 - auto.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - auto\oefening 1 - auto\obj\Debug\net8.0\refint\oefening 1 - auto.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - auto\oefening 1 - auto\obj\Debug\net8.0\oefening 1 - auto.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - auto\oefening 1 - auto\obj\Debug\net8.0\oefening 1 - auto.genruntimeconfig.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - auto\oefening 1 - auto\obj\Debug\net8.0\ref\oefening 1 - auto.dll
