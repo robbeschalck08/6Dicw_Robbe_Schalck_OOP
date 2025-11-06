@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "oefening 1 - hond en leeuw/1.0.0": {
+        "runtime": {
+          "oefening 1 - hond en leeuw.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oefening 1 - hond en leeuw/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
