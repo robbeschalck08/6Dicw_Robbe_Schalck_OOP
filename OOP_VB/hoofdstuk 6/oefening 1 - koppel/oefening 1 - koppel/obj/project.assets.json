@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefening 1 - koppel\\oefening 1 - koppel\\oefening 1 - koppel.vbproj",
+      "projectUniqueName": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\hoofdstuk 6\\oefening 1 - koppel\\oefening 1 - koppel\\oefening 1 - koppel.vbproj",
       "projectName": "oefening 1 - koppel",
-      "projectPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefening 1 - koppel\\oefening 1 - koppel\\oefening 1 - koppel.vbproj",
+      "projectPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\hoofdstuk 6\\oefening 1 - koppel\\oefening 1 - koppel\\oefening 1 - koppel.vbproj",
       "packagesPath": "C:\\Users\\robbe.schalck\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefening 1 - koppel\\oefening 1 - koppel\\obj\\",
+      "outputPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\hoofdstuk 6\\oefening 1 - koppel\\oefening 1 - koppel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

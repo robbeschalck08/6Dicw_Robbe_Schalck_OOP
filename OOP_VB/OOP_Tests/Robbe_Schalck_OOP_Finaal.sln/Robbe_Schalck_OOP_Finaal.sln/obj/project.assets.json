@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln.vbproj",
+      "projectUniqueName": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\OOP_Tests\\Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln.vbproj",
       "projectName": "Robbe_Schalck_OOP_Finaal.sln",
-      "projectPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln.vbproj",
+      "projectPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\OOP_Tests\\Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln.vbproj",
       "packagesPath": "C:\\Users\\robbe.schalck\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln\\obj\\",
+      "outputPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\OOP_Tests\\Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefening 3 - speler\\",
+  "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\hoofdstuk 7\\oefening 3 - speler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EDB6F44-F298-419A-8356-E768E9291C1E}|oefening 3 - speler\\oefening 3 - speler.vbproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\oop_vb\\oefening 3 - speler\\oefening 3 - speler\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{5EDB6F44-F298-419A-8356-E768E9291C1E}|oefening 3 - speler\\oefening 3 - speler.vbproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\oop_vb\\hoofdstuk 7\\oefening 3 - speler\\oefening 3 - speler\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{5EDB6F44-F298-419A-8356-E768E9291C1E}|oefening 3 - speler\\oefening 3 - speler.vbproj|solutionrelative:oefening 3 - speler\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.vb",
-              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefening 3 - speler\\oefening 3 - speler\\Program.vb",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\hoofdstuk 7\\oefening 3 - speler\\oefening 3 - speler\\Program.vb",
               "RelativeDocumentMoniker": "oefening 3 - speler\\Program.vb",
-              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefening 3 - speler\\oefening 3 - speler\\Program.vb",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\hoofdstuk 7\\oefening 3 - speler\\oefening 3 - speler\\Program.vb",
               "RelativeToolTip": "oefening 3 - speler\\Program.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-11-05T15:33:54.301Z",
               "EditorCaption": ""

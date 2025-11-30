@@ -12,3 +12,17 @@ C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening
 C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 2 - radio\oefening 2 - radio\obj\Debug\net8.0\oefening 2 - radio.pdb
 C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 2 - radio\oefening 2 - radio\obj\Debug\net8.0\oefening 2 - radio.genruntimeconfig.cache
 C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 2 - radio\oefening 2 - radio\obj\Debug\net8.0\ref\oefening 2 - radio.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\oefening 2 - radio\oefening 2 - radio\bin\Debug\net8.0\oefening 2 - radio.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\oefening 2 - radio\oefening 2 - radio\bin\Debug\net8.0\oefening 2 - radio.deps.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\oefening 2 - radio\oefening 2 - radio\bin\Debug\net8.0\oefening 2 - radio.runtimeconfig.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\oefening 2 - radio\oefening 2 - radio\bin\Debug\net8.0\oefening 2 - radio.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\oefening 2 - radio\oefening 2 - radio\bin\Debug\net8.0\oefening 2 - radio.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\oefening 2 - radio\oefening 2 - radio\obj\Debug\net8.0\oefening 2 - radio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\oefening 2 - radio\oefening 2 - radio\obj\Debug\net8.0\oefening 2 - radio.AssemblyInfoInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\oefening 2 - radio\oefening 2 - radio\obj\Debug\net8.0\oefening 2 - radio.AssemblyInfo.vb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\oefening 2 - radio\oefening 2 - radio\obj\Debug\net8.0\oefening 2 - radio.vbproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\oefening 2 - radio\oefening 2 - radio\obj\Debug\net8.0\oefening 2 - radio.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\oefening 2 - radio\oefening 2 - radio\obj\Debug\net8.0\refint\oefening 2 - radio.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\oefening 2 - radio\oefening 2 - radio\obj\Debug\net8.0\oefening 2 - radio.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\oefening 2 - radio\oefening 2 - radio\obj\Debug\net8.0\oefening 2 - radio.genruntimeconfig.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\oefening 2 - radio\oefening 2 - radio\obj\Debug\net8.0\ref\oefening 2 - radio.dll

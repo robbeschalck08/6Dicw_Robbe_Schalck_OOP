@@ -41,8 +41,8 @@ Module Program
         Dim objViserion As New Draak("viserion", "Game of Thrones", True, 6, "Dragon, Wight")
         Dim objDrogon As New Draak("Drogon", "Game of Thrones", True, 7, "Dragon")
         Dim objRhaegal As New Draak("Rhaegal", "Game of Thrones", True, 7, "Dragon")
-        Console.WriteLine("De draak noemt " & objViserion.getNaam & " Hij is " & objViserion.getAge & " jaar oud en heeft de classificatie " & objViserion.getClassification)
-        Console.WriteLine("De draak noemt " & objDrogon.getNaam & " Hij is " & objDrogon.getAge & " jaar oud en heeft de classificatie " & objDrogon.getClassification)
-        Console.WriteLine("De draak noemt " & objRhaegal.getNaam & " Hij is " & objRhaegal.getAge & " jaar oud en heeft de classificatie " & objRhaegal.getClassification)
+        Console.WriteLine("De draak noemt " & objViserion.getNaam() & " Hij is " & objViserion.getAge & " jaar oud en heeft de classificatie " & objViserion.getClassification)
+        Console.WriteLine("De draak noemt " & objDrogon.getNaam() & " Hij is " & objDrogon.getAge & " jaar oud en heeft de classificatie " & objDrogon.getClassification)
+        Console.WriteLine("De draak noemt " & objRhaegal.getNaam() & " Hij is " & objRhaegal.getAge & " jaar oud en heeft de classificatie " & objRhaegal.getClassification)
     End Sub
 End Module

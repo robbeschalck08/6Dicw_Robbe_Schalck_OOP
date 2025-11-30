@@ -5,6 +5,7 @@ Module Program
         Protected strKlantNaam As String
         Protected dblTotaalBedrag As Double
 
+
         Public Sub New(strKlantNaam As String, dblTotaalBedrag As Double)
             Me.strKlantNaam = strKlantNaam
             Me.dblTotaalBedrag = dblTotaalBedrag

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefening 1 - draak\\",
+  "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\hoofdstuk 4\\oefening 1 - draak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A229F5C3-871D-44C0-8BBF-5BF44BE6390E}|oefening 1 - draak\\oefening 1 - draak.vbproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\oop_vb\\oefening 1 - draak\\oefening 1 - draak\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{A229F5C3-871D-44C0-8BBF-5BF44BE6390E}|oefening 1 - draak\\oefening 1 - draak.vbproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\oop_vb\\hoofdstuk 4\\oefening 1 - draak\\oefening 1 - draak\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{A229F5C3-871D-44C0-8BBF-5BF44BE6390E}|oefening 1 - draak\\oefening 1 - draak.vbproj|solutionrelative:oefening 1 - draak\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.vb",
-              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefening 1 - draak\\oefening 1 - draak\\Program.vb",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\hoofdstuk 4\\oefening 1 - draak\\oefening 1 - draak\\Program.vb",
               "RelativeDocumentMoniker": "oefening 1 - draak\\Program.vb",
-              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefening 1 - draak\\oefening 1 - draak\\Program.vb",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\hoofdstuk 4\\oefening 1 - draak\\oefening 1 - draak\\Program.vb",
               "RelativeToolTip": "oefening 1 - draak\\Program.vb",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwAwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-11-30T08:41:29.992Z",
               "EditorCaption": ""

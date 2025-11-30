@@ -1,0 +1,14 @@
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\draak hoofdstuk 6\draak hoofdstuk 6\bin\Debug\net8.0\draak hoofdstuk 6.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\draak hoofdstuk 6\draak hoofdstuk 6\bin\Debug\net8.0\draak hoofdstuk 6.deps.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\draak hoofdstuk 6\draak hoofdstuk 6\bin\Debug\net8.0\draak hoofdstuk 6.runtimeconfig.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\draak hoofdstuk 6\draak hoofdstuk 6\bin\Debug\net8.0\draak hoofdstuk 6.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\draak hoofdstuk 6\draak hoofdstuk 6\bin\Debug\net8.0\draak hoofdstuk 6.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\draak hoofdstuk 6\draak hoofdstuk 6\obj\Debug\net8.0\draak hoofdstuk 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\draak hoofdstuk 6\draak hoofdstuk 6\obj\Debug\net8.0\draak hoofdstuk 6.AssemblyInfoInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\draak hoofdstuk 6\draak hoofdstuk 6\obj\Debug\net8.0\draak hoofdstuk 6.AssemblyInfo.vb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\draak hoofdstuk 6\draak hoofdstuk 6\obj\Debug\net8.0\draak hoofdstuk 6.vbproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\draak hoofdstuk 6\draak hoofdstuk 6\obj\Debug\net8.0\draak hoofdstuk 6.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\draak hoofdstuk 6\draak hoofdstuk 6\obj\Debug\net8.0\refint\draak hoofdstuk 6.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\draak hoofdstuk 6\draak hoofdstuk 6\obj\Debug\net8.0\draak hoofdstuk 6.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\draak hoofdstuk 6\draak hoofdstuk 6\obj\Debug\net8.0\draak hoofdstuk 6.genruntimeconfig.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\hoofdstuk 6\draak hoofdstuk 6\draak hoofdstuk 6\obj\Debug\net8.0\ref\draak hoofdstuk 6.dll

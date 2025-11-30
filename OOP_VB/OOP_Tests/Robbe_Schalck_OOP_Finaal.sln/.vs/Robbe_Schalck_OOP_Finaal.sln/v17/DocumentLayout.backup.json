@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\Robbe_Schalck_OOP_Finaal.sln\\",
+  "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\OOP_Tests\\Robbe_Schalck_OOP_Finaal.sln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C646A618-CD97-4570-9644-4F4E12CA20E8}|Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln.vbproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\oop_vb\\robbe_schalck_oop_finaal.sln\\robbe_schalck_oop_finaal.sln\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{C646A618-CD97-4570-9644-4F4E12CA20E8}|Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln.vbproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\oop_vb\\oop_tests\\robbe_schalck_oop_finaal.sln\\robbe_schalck_oop_finaal.sln\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{C646A618-CD97-4570-9644-4F4E12CA20E8}|Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln.vbproj|solutionrelative:robbe_schalck_oop_finaal.sln\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.vb",
-              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln\\Program.vb",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\OOP_Tests\\Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln\\Program.vb",
               "RelativeDocumentMoniker": "Robbe_Schalck_OOP_Finaal.sln\\Program.vb",
-              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln\\Program.vb",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\OOP_Tests\\Robbe_Schalck_OOP_Finaal.sln\\Robbe_Schalck_OOP_Finaal.sln\\Program.vb",
               "RelativeToolTip": "Robbe_Schalck_OOP_Finaal.sln\\Program.vb",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAAAFUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-11-06T10:22:18.864Z",
               "EditorCaption": ""
