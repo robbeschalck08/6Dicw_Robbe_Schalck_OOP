@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_1\\_oefeningen\\Reisbureau\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A3E3D9-5BCA-4EC2-8E68-E516DCB202C4}|Reisbureau\\Reisbureau.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_1\\_oefeningen\\reisbureau\\reisbureau\\groepsreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A3E3D9-5BCA-4EC2-8E68-E516DCB202C4}|Reisbureau\\Reisbureau.csproj|solutionrelative:reisbureau\\groepsreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Groepsreis.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_1\\_oefeningen\\Reisbureau\\Reisbureau\\Groepsreis.cs",
+              "RelativeDocumentMoniker": "Reisbureau\\Groepsreis.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_1\\_oefeningen\\Reisbureau\\Reisbureau\\Groepsreis.cs",
+              "RelativeToolTip": "Reisbureau\\Groepsreis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:32:23.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

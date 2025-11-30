@@ -1,0 +1,14 @@
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - leeuw\oefening 1 - leeuw\bin\Debug\net8.0\oefening 1 - leeuw.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - leeuw\oefening 1 - leeuw\bin\Debug\net8.0\oefening 1 - leeuw.deps.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - leeuw\oefening 1 - leeuw\bin\Debug\net8.0\oefening 1 - leeuw.runtimeconfig.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - leeuw\oefening 1 - leeuw\bin\Debug\net8.0\oefening 1 - leeuw.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - leeuw\oefening 1 - leeuw\bin\Debug\net8.0\oefening 1 - leeuw.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - leeuw\oefening 1 - leeuw\obj\Debug\net8.0\oefening 1 - leeuw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - leeuw\oefening 1 - leeuw\obj\Debug\net8.0\oefening 1 - leeuw.AssemblyInfoInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - leeuw\oefening 1 - leeuw\obj\Debug\net8.0\oefening 1 - leeuw.AssemblyInfo.vb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - leeuw\oefening 1 - leeuw\obj\Debug\net8.0\oefening 1 - leeuw.vbproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - leeuw\oefening 1 - leeuw\obj\Debug\net8.0\oefening 1 - leeuw.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - leeuw\oefening 1 - leeuw\obj\Debug\net8.0\refint\oefening 1 - leeuw.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - leeuw\oefening 1 - leeuw\obj\Debug\net8.0\oefening 1 - leeuw.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - leeuw\oefening 1 - leeuw\obj\Debug\net8.0\oefening 1 - leeuw.genruntimeconfig.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - leeuw\oefening 1 - leeuw\obj\Debug\net8.0\ref\oefening 1 - leeuw.dll

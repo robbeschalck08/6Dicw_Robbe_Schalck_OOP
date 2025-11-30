@@ -1,0 +1,9 @@
+C:\Users\robbe.schalck\Desktop\git.sharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\bin\Debug\Wekker.exe.config
+C:\Users\robbe.schalck\Desktop\git.sharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\bin\Debug\Wekker.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\bin\Debug\Wekker.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.csproj.AssemblyReference.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.Properties.Resources.resources
+C:\Users\robbe.schalck\Desktop\git.sharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.csproj.GenerateResource.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.csproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.pdb
