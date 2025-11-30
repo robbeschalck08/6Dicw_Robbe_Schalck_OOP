@@ -1,28 +1,28 @@
 Imports System
+Imports System.Runtime.CompilerServices
+
 Module Program
     Class Radio
-        Dim Random As New Random()
-        Private intNumber As Integer
-        Public Sub New()
-
+        Dim random As New Random
+        Private intGetal As Integer
+        Public Sub SpeelLiedje()
+            Console.Write("ik ga een liedje spelen: " & SpeelLiedjeRadio())
         End Sub
-        Private Function SpeelLiedjeRadio() As String
-            intNumber = Random.Next(1, 4)
-            If intNumber = 1 Then
-                Return "J'aime la vie"
-            ElseIf intNumber = 2 Then
-                Return "In this darkness"
+
+        Private Function SpeelLiedjeRadio()
+            intGetal = random.Next(1, 3)
+            If intGetal = 1 Then
+                Return "baila"
+            ElseIf intGetal = 2 Then
+                Return "la vache"
             Else
-                Return "Turn the Tide"
+                Return "beachball"
             End If
         End Function
-        Public Sub SpeelLiedje()
-            Console.WriteLine("Ik ga een liedje spelen...")
-            Console.WriteLine(SpeelLiedjeRadio)
-        End Sub
     End Class
     Sub Main(args As String())
-        Dim objRadio As New radio()
+        Console.WriteLine("Hello World!")
+        Dim objRadio As New Radio()
         objRadio.SpeelLiedje()
     End Sub
 End Module

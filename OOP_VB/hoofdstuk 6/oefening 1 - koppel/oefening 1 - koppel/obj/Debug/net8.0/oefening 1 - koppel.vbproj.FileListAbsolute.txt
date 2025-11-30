@@ -1,0 +1,14 @@
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - koppel\oefening 1 - koppel\bin\Debug\net8.0\oefening 1 - koppel.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - koppel\oefening 1 - koppel\bin\Debug\net8.0\oefening 1 - koppel.deps.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - koppel\oefening 1 - koppel\bin\Debug\net8.0\oefening 1 - koppel.runtimeconfig.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - koppel\oefening 1 - koppel\bin\Debug\net8.0\oefening 1 - koppel.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - koppel\oefening 1 - koppel\bin\Debug\net8.0\oefening 1 - koppel.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - koppel\oefening 1 - koppel\obj\Debug\net8.0\oefening 1 - koppel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - koppel\oefening 1 - koppel\obj\Debug\net8.0\oefening 1 - koppel.AssemblyInfoInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - koppel\oefening 1 - koppel\obj\Debug\net8.0\oefening 1 - koppel.AssemblyInfo.vb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - koppel\oefening 1 - koppel\obj\Debug\net8.0\oefening 1 - koppel.vbproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - koppel\oefening 1 - koppel\obj\Debug\net8.0\oefening 1 - koppel.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - koppel\oefening 1 - koppel\obj\Debug\net8.0\refint\oefening 1 - koppel.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - koppel\oefening 1 - koppel\obj\Debug\net8.0\oefening 1 - koppel.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - koppel\oefening 1 - koppel\obj\Debug\net8.0\oefening 1 - koppel.genruntimeconfig.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefening 1 - koppel\oefening 1 - koppel\obj\Debug\net8.0\ref\oefening 1 - koppel.dll
