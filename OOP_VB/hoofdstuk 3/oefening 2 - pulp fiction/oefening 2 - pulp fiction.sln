@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36623.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "oefening 1 - cirkel", "oefening 1 - cirkel\oefening 1 - cirkel.vbproj", "{B0CB11DA-E07C-4C97-8EA2-3BD9DCD8003E}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "oefening 2 - pulp fiction", "oefening 2 - pulp fiction\oefening 2 - pulp fiction.vbproj", "{D9E8C582-7DBF-4891-B293-6CB7F84C9580}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B0CB11DA-E07C-4C97-8EA2-3BD9DCD8003E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B0CB11DA-E07C-4C97-8EA2-3BD9DCD8003E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B0CB11DA-E07C-4C97-8EA2-3BD9DCD8003E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B0CB11DA-E07C-4C97-8EA2-3BD9DCD8003E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E8C582-7DBF-4891-B293-6CB7F84C9580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E8C582-7DBF-4891-B293-6CB7F84C9580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E8C582-7DBF-4891-B293-6CB7F84C9580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E8C582-7DBF-4891-B293-6CB7F84C9580}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6EA62C69-0BB8-43E2-8599-5BEF6490D652}
+		SolutionGuid = {D801E6F2-FD5D-4DA8-8BB4-2CB65193864E}
 	EndGlobalSection
 EndGlobal
