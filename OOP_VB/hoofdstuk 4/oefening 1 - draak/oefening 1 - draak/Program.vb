@@ -1,7 +1,7 @@
 Imports System
 
 Module Program
-    Class draak
+    Class Draak
         Public strNaam As String
         Public strOorsprong As String
         Public strGeslacht As String
@@ -15,14 +15,13 @@ Module Program
             Me.intLeeftijd = intLeeftijd
             Me.strKlassificatie = strKlassificatie
         End Sub
+
     End Class
     Sub Main(args As String())
-        Dim objViserion As New draak("Viserion", "Game of Thrones", "Male", 6, "Dragon wight")
-        Dim objDrogon As New draak("Drogon", "Game of Thrones", "Male", 7, "Dragon")
-        Dim objRhaegal As New draak("Rhaegal", "Game of Thrones", "Male", 7, "Dragon")
-        Console.WriteLine("De draak noemt " & objViserion.strNaam & " Hij is " & objViserion.intLeeftijd & " jaar oud en heeft de classificatie " & objViserion.strKlassificatie)
-        Console.WriteLine("De draak noemt " & objDrogon.strNaam & " Hij is " & objDrogon.intLeeftijd & " jaar oud en heeft de classificatie " & objDrogon.strKlassificatie)
-        Console.WriteLine("De draak noemt " & objRhaegal.strNaam & " Hij is " & objRhaegal.intLeeftijd & " jaar oud en heeft de classificatie " & objRhaegal.strKlassificatie)
-
+        Console.WriteLine("Hello World!")
+        Dim objViserion As New Draak("Viserion", "game of thrones", "man", 6, "dragon(wight)")
+        Dim objDragon As New Draak("Dragon", "game of thrones", "man", 7, "dragon")
+        Dim objRhaegal As New Draak("Rhaegal", "game of thrones", "man", 7, "dragon")
+        Console.WriteLine("dit is zijn naam: " & objViserion.strNaam)
     End Sub
 End Module
