@@ -1,20 +1,19 @@
 Imports System
 
 Module Program
-
     Class Voetballer
         Public strNaam As String
         Public intLeeftijd As Integer
-        Public intGeleKaarten As Integer
+        Public intAantalGeleKaarten As Integer
 
         Public Sub New(strNaam As String, intLeeftijd As Integer)
             Me.strNaam = strNaam
             Me.intLeeftijd = intLeeftijd
-            Me.intGeleKaarten = 0
+            Me.intAantalGeleKaarten = 0
         End Sub
 
-        Public Function NaarKleedkamer() As String
-            If Me.intGeleKaarten > 1 Then
+        Public Function NaarKleedkamer()
+            If intAantalGeleKaarten > 1 Then
                 Return "Kleedkamer"
             Else
                 Return "Spelen"
@@ -22,20 +21,21 @@ Module Program
         End Function
 
         Public Sub GeefKaart()
-            If intGeleKaarten >= 2 Then
-                intGeleKaarten = 1
-            ElseIf intGeleKaarten = 0 Then
-                Console.WriteLine("Ik geef een kaart")
-            Else
+            If intAantalGeleKaarten >= 1 Then
+                intAantalGeleKaarten = 0
+                intAantalGeleKaarten += 1
                 Console.WriteLine("Ik geef nog een kaart")
+            Else
+                Console.WriteLine("Ik geef een kaart")
+                intAantalGeleKaarten += 1
             End If
-            Me.intGeleKaarten += 1
         End Sub
     End Class
     Sub Main(args As String())
-        Console.WriteLine("Hello World!")
-        Dim objVoetballer As New Voetballer("messi", 20)
-        objVoetballer.GeefKaart()
-        Console.WriteLine(objVoetballer.NaarKleedkamer())
+        Dim objLukaku As New Voetballer("Lukaku", 30)
+        Console.WriteLine(objLukaku.NaarKleedkamer())
+        objLukaku.GeefKaart()
+        objLukaku.GeefKaart()
+        Console.WriteLine(objLukaku.NaarKleedkamer())
     End Sub
 End Module
