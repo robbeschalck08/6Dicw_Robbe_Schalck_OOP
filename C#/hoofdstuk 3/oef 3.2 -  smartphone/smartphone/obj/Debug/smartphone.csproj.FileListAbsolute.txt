@@ -1,0 +1,7 @@
+C:\Users\joris.custers\source\repos\smartphone\smartphone\bin\Debug\smartphone.exe.config
+C:\Users\joris.custers\source\repos\smartphone\smartphone\bin\Debug\smartphone.exe
+C:\Users\joris.custers\source\repos\smartphone\smartphone\bin\Debug\smartphone.pdb
+C:\Users\joris.custers\source\repos\smartphone\smartphone\obj\Debug\smartphone.csproj.AssemblyReference.cache
+C:\Users\joris.custers\source\repos\smartphone\smartphone\obj\Debug\smartphone.csproj.CoreCompileInputs.cache
+C:\Users\joris.custers\source\repos\smartphone\smartphone\obj\Debug\smartphone.exe
+C:\Users\joris.custers\source\repos\smartphone\smartphone\obj\Debug\smartphone.pdb
