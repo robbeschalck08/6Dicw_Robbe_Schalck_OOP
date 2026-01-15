@@ -1,0 +1,16 @@
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\bin\Debug\net8.0-windows\OpDeWeegschaal.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\bin\Debug\net8.0-windows\OpDeWeegschaal.deps.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\bin\Debug\net8.0-windows\OpDeWeegschaal.runtimeconfig.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\bin\Debug\net8.0-windows\OpDeWeegschaal.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\bin\Debug\net8.0-windows\OpDeWeegschaal.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\oefenen.BMIForm.resources
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\OpDeWeegschaal.csproj.GenerateResource.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\OpDeWeegschaal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\OpDeWeegschaal.AssemblyInfoInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\OpDeWeegschaal.AssemblyInfo.cs
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\OpDeWeegschaal.csproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\OpDeWeegschaal.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\refint\OpDeWeegschaal.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\OpDeWeegschaal.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\OpDeWeegschaal.genruntimeconfig.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\ref\OpDeWeegschaal.dll

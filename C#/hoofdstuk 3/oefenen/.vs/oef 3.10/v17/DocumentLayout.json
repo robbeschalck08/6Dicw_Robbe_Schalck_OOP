@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefenen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04A2C644-E2D7-466A-8562-23CD01170EC8}|oefenen\\OpDeWeegschaal.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\oop_vb\\oefenen\\oefenen\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A2C644-E2D7-466A-8562-23CD01170EC8}|oefenen\\OpDeWeegschaal.csproj|solutionrelative:oefenen\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A2C644-E2D7-466A-8562-23CD01170EC8}|oefenen\\oefenen.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\oop_vb\\oefenen\\oefenen\\weightwatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A2C644-E2D7-466A-8562-23CD01170EC8}|oefenen\\oefenen.csproj|solutionrelative:oefenen\\weightwatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A2C644-E2D7-466A-8562-23CD01170EC8}|oefenen\\OpDeWeegschaal.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\oop_vb\\oefenen\\oefenen\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04A2C644-E2D7-466A-8562-23CD01170EC8}|oefenen\\OpDeWeegschaal.csproj|solutionrelative:oefenen\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A2C644-E2D7-466A-8562-23CD01170EC8}|oefenen\\OpDeWeegschaal.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\oop_vb\\oefenen\\oefenen\\bmiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A2C644-E2D7-466A-8562-23CD01170EC8}|oefenen\\OpDeWeegschaal.csproj|solutionrelative:oefenen\\bmiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BMIForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefenen\\oefenen\\BMIForm.cs",
+              "RelativeDocumentMoniker": "oefenen\\BMIForm.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefenen\\oefenen\\BMIForm.cs [Design]",
+              "RelativeToolTip": "oefenen\\BMIForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:42:08.644Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BMIForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefenen\\oefenen\\BMIForm.Designer.cs",
+              "RelativeDocumentMoniker": "oefenen\\BMIForm.Designer.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefenen\\oefenen\\BMIForm.Designer.cs",
+              "RelativeToolTip": "oefenen\\BMIForm.Designer.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAIAwwFwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T12:56:27.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BMIForm.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefenen\\oefenen\\BMIForm.cs",
+              "RelativeDocumentMoniker": "oefenen\\BMIForm.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefenen\\oefenen\\BMIForm.cs",
+              "RelativeToolTip": "oefenen\\BMIForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T12:55:19.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeightWatcher.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefenen\\oefenen\\WeightWatcher.cs",
+              "RelativeDocumentMoniker": "oefenen\\WeightWatcher.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\OOP_VB\\oefenen\\oefenen\\WeightWatcher.cs",
+              "RelativeToolTip": "oefenen\\WeightWatcher.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T12:55:13.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

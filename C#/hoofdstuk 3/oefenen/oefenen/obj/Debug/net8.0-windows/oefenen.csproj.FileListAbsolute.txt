@@ -1,0 +1,16 @@
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\bin\Debug\net8.0-windows\oefenen.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\bin\Debug\net8.0-windows\oefenen.deps.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\bin\Debug\net8.0-windows\oefenen.runtimeconfig.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\bin\Debug\net8.0-windows\oefenen.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\bin\Debug\net8.0-windows\oefenen.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\oefenen.Form1.resources
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\oefenen.csproj.GenerateResource.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\oefenen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\oefenen.AssemblyInfoInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\oefenen.AssemblyInfo.cs
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\oefenen.csproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\oefenen.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\refint\oefenen.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\oefenen.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\oefenen.genruntimeconfig.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\oefenen\oefenen\obj\Debug\net8.0-windows\ref\oefenen.dll

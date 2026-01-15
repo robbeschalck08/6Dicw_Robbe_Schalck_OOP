@@ -1,0 +1,16 @@
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\bin\Debug\net8.0-windows\uitleg.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\bin\Debug\net8.0-windows\uitleg.deps.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\bin\Debug\net8.0-windows\uitleg.runtimeconfig.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\bin\Debug\net8.0-windows\uitleg.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\bin\Debug\net8.0-windows\uitleg.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\obj\Debug\net8.0-windows\uitleg.Form1.resources
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\obj\Debug\net8.0-windows\uitleg.csproj.GenerateResource.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\obj\Debug\net8.0-windows\uitleg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\obj\Debug\net8.0-windows\uitleg.AssemblyInfoInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\obj\Debug\net8.0-windows\uitleg.AssemblyInfo.cs
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\obj\Debug\net8.0-windows\uitleg.csproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\obj\Debug\net8.0-windows\uitleg.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\obj\Debug\net8.0-windows\refint\uitleg.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\obj\Debug\net8.0-windows\uitleg.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\obj\Debug\net8.0-windows\uitleg.genruntimeconfig.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\uitleg\uitleg\obj\Debug\net8.0-windows\ref\uitleg.dll

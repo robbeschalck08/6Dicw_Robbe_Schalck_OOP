@@ -1,0 +1,16 @@
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\bin\Debug\net8.0-windows\joske4.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\bin\Debug\net8.0-windows\joske4.deps.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\bin\Debug\net8.0-windows\joske4.runtimeconfig.json
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\bin\Debug\net8.0-windows\joske4.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\bin\Debug\net8.0-windows\joske4.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\obj\Debug\net8.0-windows\joske4.Form1.resources
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\obj\Debug\net8.0-windows\joske4.csproj.GenerateResource.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\obj\Debug\net8.0-windows\joske4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\obj\Debug\net8.0-windows\joske4.AssemblyInfoInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\obj\Debug\net8.0-windows\joske4.AssemblyInfo.cs
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\obj\Debug\net8.0-windows\joske4.csproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\obj\Debug\net8.0-windows\joske4.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\obj\Debug\net8.0-windows\refint\joske4.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\obj\Debug\net8.0-windows\joske4.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\obj\Debug\net8.0-windows\joske4.genruntimeconfig.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\OOP_VB\joske4\joske4\obj\Debug\net8.0-windows\ref\joske4.dll
