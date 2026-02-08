@@ -1,0 +1,9 @@
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\bin\Debug\ProjectZonderNaam.exe.config
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\bin\Debug\ProjectZonderNaam.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\bin\Debug\ProjectZonderNaam.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.csproj.AssemblyReference.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.Properties.Resources.resources
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.csproj.GenerateResource.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.csproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.pdb
