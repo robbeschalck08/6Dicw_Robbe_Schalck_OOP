@@ -1,0 +1,9 @@
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_6\_oefeningen\CocktailBar\CocktailBar\bin\Debug\CocktailBar.exe.config
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_6\_oefeningen\CocktailBar\CocktailBar\bin\Debug\CocktailBar.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_6\_oefeningen\CocktailBar\CocktailBar\bin\Debug\CocktailBar.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_6\_oefeningen\CocktailBar\CocktailBar\obj\Debug\CocktailBar.csproj.AssemblyReference.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_6\_oefeningen\CocktailBar\CocktailBar\obj\Debug\CocktailBar.Properties.Resources.resources
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_6\_oefeningen\CocktailBar\CocktailBar\obj\Debug\CocktailBar.csproj.GenerateResource.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_6\_oefeningen\CocktailBar\CocktailBar\obj\Debug\CocktailBar.csproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_6\_oefeningen\CocktailBar\CocktailBar\obj\Debug\CocktailBar.exe
+C:\Users\robbe.schalck\Desktop\git.sharp\focus\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_6\_oefeningen\CocktailBar\CocktailBar\obj\Debug\CocktailBar.pdb
