@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45D90CAE-1695-4824-9141-0C81975642D5}|Business\\Business.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\dungeons\u0026dragons\\business\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D90CAE-1695-4824-9141-0C81975642D5}|Business\\Business.csproj|solutionrelative:business\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D90CAE-1695-4824-9141-0C81975642D5}|Business\\Business.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\dungeons\u0026dragons\\business\\dnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D90CAE-1695-4824-9141-0C81975642D5}|Business\\Business.csproj|solutionrelative:business\\dnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68483443-6EA5-4E70-8A64-058C30F7D906}|Formulier\\Formulier.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\dungeons\u0026dragons\\formulier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68483443-6EA5-4E70-8A64-058C30F7D906}|Formulier\\Formulier.csproj|solutionrelative:formulier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68483443-6EA5-4E70-8A64-058C30F7D906}|Formulier\\Formulier.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\dungeons\u0026dragons\\formulier\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68483443-6EA5-4E70-8A64-058C30F7D906}|Formulier\\Formulier.csproj|solutionrelative:formulier\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68483443-6EA5-4E70-8A64-058C30F7D906}|Formulier\\Formulier.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\dungeons\u0026dragons\\formulier\\startform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68483443-6EA5-4E70-8A64-058C30F7D906}|Formulier\\Formulier.csproj|solutionrelative:formulier\\startform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68483443-6EA5-4E70-8A64-058C30F7D906}|Formulier\\Formulier.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\dungeons\u0026dragons\\formulier\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68483443-6EA5-4E70-8A64-058C30F7D906}|Formulier\\Formulier.csproj|solutionrelative:formulier\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68483443-6EA5-4E70-8A64-058C30F7D906}|Formulier\\Formulier.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\dungeons\u0026dragons\\formulier\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68483443-6EA5-4E70-8A64-058C30F7D906}|Formulier\\Formulier.csproj|solutionrelative:formulier\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68483443-6EA5-4E70-8A64-058C30F7D906}|Formulier\\Formulier.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\dungeons\u0026dragons\\formulier\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68483443-6EA5-4E70-8A64-058C30F7D906}|Formulier\\Formulier.csproj|solutionrelative:formulier\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68483443-6EA5-4E70-8A64-058C30F7D906}|Formulier\\Formulier.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\dungeons\u0026dragons\\formulier\\foutmelding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68483443-6EA5-4E70-8A64-058C30F7D906}|Formulier\\Formulier.csproj|solutionrelative:formulier\\foutmelding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Foutmelding.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Formulier\\Foutmelding.cs",
+              "RelativeDocumentMoniker": "Formulier\\Foutmelding.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Formulier\\Foutmelding.cs [Design]",
+              "RelativeToolTip": "Formulier\\Foutmelding.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:55:16.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startform.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Formulier\\Startform.Designer.cs",
+              "RelativeDocumentMoniker": "Formulier\\Startform.Designer.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Formulier\\Startform.Designer.cs",
+              "RelativeToolTip": "Formulier\\Startform.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAawD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:06:28.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detail.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Formulier\\Detail.cs",
+              "RelativeDocumentMoniker": "Formulier\\Detail.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Formulier\\Detail.cs",
+              "RelativeToolTip": "Formulier\\Detail.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:53:40.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startform.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Formulier\\Startform.cs",
+              "RelativeDocumentMoniker": "Formulier\\Startform.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Formulier\\Startform.cs",
+              "RelativeToolTip": "Formulier\\Startform.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:54:56.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Detail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Formulier\\Detail.cs",
+              "RelativeDocumentMoniker": "Formulier\\Detail.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Formulier\\Detail.cs [Design]",
+              "RelativeToolTip": "Formulier\\Detail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:52:02.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Formulier\\Program.cs",
+              "RelativeDocumentMoniker": "Formulier\\Program.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Formulier\\Program.cs",
+              "RelativeToolTip": "Formulier\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:47:00.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Formulier\\Startform.cs",
+              "RelativeDocumentMoniker": "Formulier\\Startform.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Formulier\\Startform.cs [Design]",
+              "RelativeToolTip": "Formulier\\Startform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:46:52.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DnD.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Business\\DnD.cs",
+              "RelativeDocumentMoniker": "Business\\DnD.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Business\\DnD.cs",
+              "RelativeToolTip": "Business\\DnD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:33:02.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Karakter.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Business\\Karakter.cs",
+              "RelativeDocumentMoniker": "Business\\Karakter.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons\u0026Dragons\\Business\\Karakter.cs",
+              "RelativeToolTip": "Business\\Karakter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:32:51.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
