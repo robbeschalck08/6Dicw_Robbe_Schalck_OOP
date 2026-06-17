@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\CocktailBar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDA52424-7999-46D8-921F-5B27FA2B4779}|CocktailBar\\CocktailBar.csproj|C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\CocktailBar\\cocktailbar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDA52424-7999-46D8-921F-5B27FA2B4779}|CocktailBar\\CocktailBar.csproj|solutionrelative:cocktailbar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDA52424-7999-46D8-921F-5B27FA2B4779}|CocktailBar\\CocktailBar.csproj|C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\CocktailBar\\cocktailbar\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA52424-7999-46D8-921F-5B27FA2B4779}|CocktailBar\\CocktailBar.csproj|solutionrelative:cocktailbar\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDA52424-7999-46D8-921F-5B27FA2B4779}|CocktailBar\\CocktailBar.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\c#\\hoofdstuk 6\\cocktailbar\\cocktailbar\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDA52424-7999-46D8-921F-5B27FA2B4779}|CocktailBar\\CocktailBar.csproj|solutionrelative:cocktailbar\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDA52424-7999-46D8-921F-5B27FA2B4779}|CocktailBar\\CocktailBar.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\c#\\hoofdstuk 6\\cocktailbar\\cocktailbar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA52424-7999-46D8-921F-5B27FA2B4779}|CocktailBar\\CocktailBar.csproj|solutionrelative:cocktailbar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Ingredient.cs",
               "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\CocktailBar\\CocktailBar\\Ingredient.cs",
               "RelativeDocumentMoniker": "CocktailBar\\Ingredient.cs",
               "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\CocktailBar\\CocktailBar\\Ingredient.cs",
               "RelativeToolTip": "CocktailBar\\Ingredient.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T10:41:44.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\CocktailBar\\CocktailBar\\Program.cs",
               "RelativeDocumentMoniker": "CocktailBar\\Program.cs",
               "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\CocktailBar\\CocktailBar\\Program.cs",
               "RelativeToolTip": "CocktailBar\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T10:40:33.936Z",
               "EditorCaption": ""

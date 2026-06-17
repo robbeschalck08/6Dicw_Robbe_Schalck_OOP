@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Formulier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71a1f0319e9ce1af0e2f5107b035dc96e3e15f05")]
 [assembly: System.Reflection.AssemblyProductAttribute("Formulier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Formulier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

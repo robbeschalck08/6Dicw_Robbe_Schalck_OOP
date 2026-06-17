@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons&Dragons\\Formulier\\Formulier.csproj": {}
+    "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\testDND_Schalck_Robbe\\Dungeons&Dragons\\Formulier\\Formulier.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons&Dragons\\Business\\Business.csproj": {
+    "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\testDND_Schalck_Robbe\\Dungeons&Dragons\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons&Dragons\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\testDND_Schalck_Robbe\\Dungeons&Dragons\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons&Dragons\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\testDND_Schalck_Robbe\\Dungeons&Dragons\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\robbe.schalck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons&Dragons\\Business\\obj\\",
+        "outputPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\testDND_Schalck_Robbe\\Dungeons&Dragons\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons&Dragons\\Formulier\\Formulier.csproj": {
+    "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\testDND_Schalck_Robbe\\Dungeons&Dragons\\Formulier\\Formulier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons&Dragons\\Formulier\\Formulier.csproj",
+        "projectUniqueName": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\testDND_Schalck_Robbe\\Dungeons&Dragons\\Formulier\\Formulier.csproj",
         "projectName": "Formulier",
-        "projectPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons&Dragons\\Formulier\\Formulier.csproj",
+        "projectPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\testDND_Schalck_Robbe\\Dungeons&Dragons\\Formulier\\Formulier.csproj",
         "packagesPath": "C:\\Users\\robbe.schalck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons&Dragons\\Formulier\\obj\\",
+        "outputPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\testDND_Schalck_Robbe\\Dungeons&Dragons\\Formulier\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons&Dragons\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\Dungeons&Dragons\\Business\\Business.csproj"
+              "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\testDND_Schalck_Robbe\\Dungeons&Dragons\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\testDND_Schalck_Robbe\\Dungeons&Dragons\\Business\\Business.csproj"
               }
             }
           }
