@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\6Dicw_Robbe_Schalck_OOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B837C6EC-EEB9-4453-959C-DB05EB10287B}|6Dicw_Robbe_SchalckOOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\c#\\6dicw_robbe_schalck_oopeindexamen\\6dicw_robbe_schalckoopeindexamen\\6dicw_robbe_schalckoopeindexamen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B837C6EC-EEB9-4453-959C-DB05EB10287B}|6Dicw_Robbe_SchalckOOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen.csproj|solutionrelative:6dicw_robbe_schalckoopeindexamen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B837C6EC-EEB9-4453-959C-DB05EB10287B}|6Dicw_Robbe_SchalckOOPEindexamen\\Presentation.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\c#\\6dicw_robbe_schalck_oopeindexamen\\6dicw_robbe_schalckoopeindexamen\\6dicw_robbe_schalckoopeindexamen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B837C6EC-EEB9-4453-959C-DB05EB10287B}|6Dicw_Robbe_SchalckOOPEindexamen\\Presentation.csproj|solutionrelative:6dicw_robbe_schalckoopeindexamen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED03E9B6-4E34-4D27-B569-6BFE727D993E}|Business\\Business.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\c#\\6dicw_robbe_schalck_oopeindexamen\\6dicw_robbe_schalckoopeindexamen\\business\\schip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED03E9B6-4E34-4D27-B569-6BFE727D993E}|Business\\Business.csproj|solutionrelative:business\\schip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C85EC9-0F76-45D0-9E25-0FC200016416}|DataLaag\\Data.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\c#\\6dicw_robbe_schalck_oopeindexamen\\6dicw_robbe_schalckoopeindexamen\\datalaag\\bsgdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C85EC9-0F76-45D0-9E25-0FC200016416}|DataLaag\\Data.csproj|solutionrelative:datalaag\\bsgdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED03E9B6-4E34-4D27-B569-6BFE727D993E}|Business\\Business.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\c#\\6dicw_robbe_schalck_oopeindexamen\\6dicw_robbe_schalckoopeindexamen\\business\\planeet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED03E9B6-4E34-4D27-B569-6BFE727D993E}|Business\\Business.csproj|solutionrelative:business\\planeet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED03E9B6-4E34-4D27-B569-6BFE727D993E}|Business\\Business.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\c#\\6dicw_robbe_schalck_oopeindexamen\\6dicw_robbe_schalckoopeindexamen\\business\\personage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED03E9B6-4E34-4D27-B569-6BFE727D993E}|Business\\Business.csproj|solutionrelative:business\\personage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\6Dicw_Robbe_Schalck_OOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\Form1.cs",
+              "RelativeDocumentMoniker": "6Dicw_Robbe_SchalckOOPEindexamen\\Form1.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\6Dicw_Robbe_Schalck_OOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\Form1.cs [Design]*",
+              "RelativeToolTip": "6Dicw_Robbe_SchalckOOPEindexamen\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T09:34:37.286Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\6Dicw_Robbe_Schalck_OOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\Form1.cs",
+              "RelativeDocumentMoniker": "6Dicw_Robbe_SchalckOOPEindexamen\\Form1.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\6Dicw_Robbe_Schalck_OOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\Form1.cs*",
+              "RelativeToolTip": "6Dicw_Robbe_SchalckOOPEindexamen\\Form1.cs*",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAkwJcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:39:04.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BSGData.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\6Dicw_Robbe_Schalck_OOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\DataLaag\\BSGData.cs",
+              "RelativeDocumentMoniker": "DataLaag\\BSGData.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\6Dicw_Robbe_Schalck_OOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\DataLaag\\BSGData.cs",
+              "RelativeToolTip": "DataLaag\\BSGData.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwHkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:46:14.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Schip.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\6Dicw_Robbe_Schalck_OOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\Business\\Schip.cs",
+              "RelativeDocumentMoniker": "Business\\Schip.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\6Dicw_Robbe_Schalck_OOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\Business\\Schip.cs",
+              "RelativeToolTip": "Business\\Schip.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:50:03.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Planeet.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\6Dicw_Robbe_Schalck_OOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\Business\\Planeet.cs",
+              "RelativeDocumentMoniker": "Business\\Planeet.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\6Dicw_Robbe_Schalck_OOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\Business\\Planeet.cs",
+              "RelativeToolTip": "Business\\Planeet.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:50:30.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Personage.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\6Dicw_Robbe_Schalck_OOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\Business\\Personage.cs",
+              "RelativeDocumentMoniker": "Business\\Personage.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\6Dicw_Robbe_Schalck_OOPEindexamen\\6Dicw_Robbe_SchalckOOPEindexamen\\Business\\Personage.cs",
+              "RelativeToolTip": "Business\\Personage.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:50:15.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

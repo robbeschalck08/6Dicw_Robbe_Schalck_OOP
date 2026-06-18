@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\focus\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_6\\_voorbeelden\\Reizen\\",
+  "WorkspaceRootPath": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\Reizen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6614E648-037B-43A4-8051-7535A305DC14}|Reizen\\Reizen.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\focus\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_6\\_voorbeelden\\reizen\\reizen\\jaarboekreizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6614E648-037B-43A4-8051-7535A305DC14}|Reizen\\Reizen.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\c#\\hoofdstuk 6\\reizen\\reizen\\jaarboekreizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6614E648-037B-43A4-8051-7535A305DC14}|Reizen\\Reizen.csproj|solutionrelative:reizen\\jaarboekreizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6614E648-037B-43A4-8051-7535A305DC14}|Reizen\\Reizen.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\focus\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_6\\_voorbeelden\\reizen\\reizen\\reis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6614E648-037B-43A4-8051-7535A305DC14}|Reizen\\Reizen.csproj|C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\Reizen\\reizen\\reis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6614E648-037B-43A4-8051-7535A305DC14}|Reizen\\Reizen.csproj|solutionrelative:reizen\\reis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6614E648-037B-43A4-8051-7535A305DC14}|Reizen\\Reizen.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\c#\\hoofdstuk 6\\reizen\\reizen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6614E648-037B-43A4-8051-7535A305DC14}|Reizen\\Reizen.csproj|solutionrelative:reizen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6614E648-037B-43A4-8051-7535A305DC14}|Reizen\\Reizen.csproj|c:\\users\\robbe.schalck\\desktop\\git.sharp\\6dicw_robbe_schalck_oop\\c#\\hoofdstuk 6\\reizen\\reizen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6614E648-037B-43A4-8051-7535A305DC14}|Reizen\\Reizen.csproj|solutionrelative:reizen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +26,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\Reizen\\Reizen\\Form1.cs",
+              "RelativeDocumentMoniker": "Reizen\\Form1.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\Reizen\\Reizen\\Form1.cs [Design]",
+              "RelativeToolTip": "Reizen\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T18:46:27.278Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\Reizen\\Reizen\\Form1.cs",
+              "RelativeDocumentMoniker": "Reizen\\Form1.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\Reizen\\Reizen\\Form1.cs",
+              "RelativeToolTip": "Reizen\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T18:46:16.172Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "JaarboekReizen.cs",
-              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\focus\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_6\\_voorbeelden\\Reizen\\Reizen\\JaarboekReizen.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\Reizen\\Reizen\\JaarboekReizen.cs",
               "RelativeDocumentMoniker": "Reizen\\JaarboekReizen.cs",
-              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\focus\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_6\\_voorbeelden\\Reizen\\Reizen\\JaarboekReizen.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\Reizen\\Reizen\\JaarboekReizen.cs",
               "RelativeToolTip": "Reizen\\JaarboekReizen.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAkwG0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAYwG0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T10:26:09.483Z",
               "EditorCaption": ""
@@ -37,18 +70,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Reis.cs",
-              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\focus\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_6\\_voorbeelden\\Reizen\\Reizen\\Reis.cs",
+              "DocumentMoniker": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\Reizen\\Reizen\\Reis.cs",
               "RelativeDocumentMoniker": "Reizen\\Reis.cs",
-              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\focus\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_6\\_voorbeelden\\Reizen\\Reizen\\Reis.cs",
+              "ToolTip": "C:\\Users\\robbe.schalck\\Desktop\\git.sharp\\6Dicw_Robbe_Schalck_OOP\\C#\\hoofdstuk 6\\Reizen\\Reizen\\Reis.cs",
               "RelativeToolTip": "Reizen\\Reis.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T10:25:44.412Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             }
           ]
         }

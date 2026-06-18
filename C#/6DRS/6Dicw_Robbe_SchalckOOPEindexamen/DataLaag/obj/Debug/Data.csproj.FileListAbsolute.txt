@@ -1,0 +1,10 @@
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\C#\6Dicw_Robbe_Schalck_OOPEindexamen\6Dicw_Robbe_SchalckOOPEindexamen\DataLaag\bin\Debug\DataLaag.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\C#\6Dicw_Robbe_Schalck_OOPEindexamen\6Dicw_Robbe_SchalckOOPEindexamen\DataLaag\bin\Debug\DataLaag.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\C#\6Dicw_Robbe_Schalck_OOPEindexamen\6Dicw_Robbe_SchalckOOPEindexamen\DataLaag\bin\Debug\Business.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\C#\6Dicw_Robbe_Schalck_OOPEindexamen\6Dicw_Robbe_SchalckOOPEindexamen\DataLaag\bin\Debug\MySql.Data.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\C#\6Dicw_Robbe_Schalck_OOPEindexamen\6Dicw_Robbe_SchalckOOPEindexamen\DataLaag\bin\Debug\Business.pdb
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\C#\6Dicw_Robbe_Schalck_OOPEindexamen\6Dicw_Robbe_SchalckOOPEindexamen\DataLaag\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\C#\6Dicw_Robbe_Schalck_OOPEindexamen\6Dicw_Robbe_SchalckOOPEindexamen\DataLaag\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\C#\6Dicw_Robbe_Schalck_OOPEindexamen\6Dicw_Robbe_SchalckOOPEindexamen\DataLaag\obj\Debug\Data.csproj.Up2Date
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\C#\6Dicw_Robbe_Schalck_OOPEindexamen\6Dicw_Robbe_SchalckOOPEindexamen\DataLaag\obj\Debug\DataLaag.dll
+C:\Users\robbe.schalck\Desktop\git.sharp\6Dicw_Robbe_Schalck_OOP\C#\6Dicw_Robbe_Schalck_OOPEindexamen\6Dicw_Robbe_SchalckOOPEindexamen\DataLaag\obj\Debug\DataLaag.pdb
